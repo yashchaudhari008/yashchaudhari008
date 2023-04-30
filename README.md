@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/29065088/214231854-244d9c24-2b4d-4f0b-bd2f-0789c06895e7.png#banner "Yash Chaudhari")
 
 
-![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=yashchaudhari008&left_color=lightgray&right_color=gray)
+<!-- ![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=yashchaudhari008&left_color=lightgray&right_color=gray) -->
 ## 💫 About Me:
 🖥 Full Stack Web Developer<br>🎓Pursuing Bachelors Degree in Computer Engineering
 
